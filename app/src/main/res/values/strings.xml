@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Futbol Takım Kadrosu</string>
+    <string name="activity_oyuncu_detay_baslik">Başlık</string>
+    <string name="activity_oyuncu_detay_detay">Detay</string>
+    <string name="list_item_oyuncu_txtadisoyadi">Adı Soyadı : </string>
+    <string name="list_item_oyuncu_txtadisoyadiicerik">Gökhan Töre</string>
+    <string name="list_item_oyuncu_txtmevki">Mevki : </string>
+    <string name="list_item_oyuncu_txtmevkiicerik">Sağ Kanat</string>
+    <string name="list_item_oyuncu_txtyas">Yaş : </string>
+    <string name="list_item_oyuncu_txtyasicerik">28</string>
+    <string name="ListeActivity_Cikis">Çıkış Yapmak İstiyor Musunuz ?</string>
+    <string name="ListeActivity_Cikisbtn">Evet</string>
+    <string name="ListeActivity_Cikisiptalbtn">Hayır</string>
+    <string name="ListeActivity_Dialog">Lütfen Bekleyiniz</string>
+    <string name="SplashActivity_InternetUyari">İnternet Bağlantınız Yok</string>
+    <string name="SplashActivity_InternetUyariMetin">Uygulamayı kullanmak için internete bağlayın.</string>
+    <string name="SplashActivity_InternetUyariBtnKapat">Kapat</string>
+    <string name="SplashActivity_InternetUyariBtnAc">İnterneti Aç</string>
+</resources>

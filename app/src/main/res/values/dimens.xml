@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="activity_liste_imageview5_height">250dp</dimen>
+
+<dimen name="activity_oyuncu_detay_imgkapak_height">250dp</dimen>
+<dimen name="activity_oyuncu_detay_txtbaslik_padding">10dp</dimen>
+<dimen name="activity_oyuncu_detay_txtbaslik_textsize">30dp</dimen>
+    <dimen name="activity_oyuncu_detay_txtdetay_padding">10dp</dimen>
+    <dimen name="activity_oyuncu_detay_txtdetay_textsize">20sp</dimen>
+    <dimen name="list_item_oyuncu_constraintlayout_padding_top">30px</dimen>
+    <dimen name="list_item_oyuncu_constraintlayout_padding_bottom">30px</dimen>
+
+    <dimen name="list_item_oyuncu_imgHoca_width">167dp</dimen>
+    <dimen name="list_item_oyuncu_imgHoca_height">158dp</dimen>
+    <dimen name="list_item_oyuncu_imgHoca_marginstart">10dp</dimen>
+    <dimen name="list_item_oyuncu_imgHoca_margintop">10dp</dimen>
+    <dimen name="list_item_oyuncu_imgHoca_marginbottom">10dp</dimen>
+
+
+    <dimen name="list_item_oyuncu_textview_marginstart">10dp</dimen>
+    <dimen name="list_item_oyuncu_textview_margintop">10dp</dimen>
+
+    <dimen name="list_item_oyuncu_textisim_margintop">3dp</dimen>
+    <dimen name="list_item_oyuncu_textview3_margintop">10dp</dimen>
+    <dimen name="list_item_oyuncu_txtmevki_margintop">3dp</dimen>
+    <dimen name="list_item_oyuncu_txtview5_margintop">10dp</dimen>
+    <dimen name="list_item_oyuncu_txtyas_margintop">3dp</dimen>
+
+
+</resources>
