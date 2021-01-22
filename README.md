@@ -8,7 +8,7 @@ Soccer team players listing app
   <p>
     <img height="500" src="https://github.com/erenkaraman/HR190013erenkaraman/blob/main/images/Screens/sc1.jpeg" alt="sc1">
     <img height="500" src="https://github.com/erenkaraman/HR190013erenkaraman/blob/main/images/Screens/sc2.jpeg" alt="sc2">
-    <img height="500" src="https://github.com/erenkaraman/HR190013erenkaraman/blob/main/images/Screensss/sc3.jpeg" alt="sc3">
+    <img height="500" src="https://github.com/erenkaraman/HR190013erenkaraman/blob/main/images/Screens/sc3.jpeg" alt="sc3">
     <img height="500" src="https://github.com/erenkaraman/HR190013erenkaraman/blob/main/images/Screens/sc4.jpeg" alt="sc4">
     <img height="500" src="https://github.com/erenkaraman/HR190013erenkaraman/blob/main/images/Screens/sc5.jpeg" alt="sc5">
   </p>
